@@ -1,0 +1,13 @@
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.exe
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.deps.json
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.runtimeconfig.json
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.runtimeconfig.dev.json
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.dll
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\bin\Debug\netcoreapp3.1\Atividade.10.11.pdb
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.csprojAssemblyReference.cache
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.AssemblyInfoInputs.cache
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.AssemblyInfo.cs
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.csproj.CoreCompileInputs.cache
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.dll
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.pdb
+A:\Área de Trabalho\EDII\Atividade.10.11\Atividade.10.11\obj\Debug\netcoreapp3.1\Atividade.10.11.genruntimeconfig.cache
