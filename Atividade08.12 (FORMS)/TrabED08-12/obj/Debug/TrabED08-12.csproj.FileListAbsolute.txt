@@ -1,0 +1,20 @@
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe.config
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.pdb
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Form1.resources
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Properties.Resources.resources
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.GenerateResource.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.exe
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.pdb
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe.config
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.pdb
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csprojAssemblyReference.cache
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Form1.resources
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Properties.Resources.resources
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.GenerateResource.cache
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.CoreCompileInputs.cache
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.exe
+A:\Área de Trabalho\EDII\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.pdb
