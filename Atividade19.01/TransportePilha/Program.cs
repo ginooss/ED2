@@ -130,18 +130,126 @@ namespace TransportePilha
                 }
                 if (opc == 7)
                 {
+                    Viagem v = new Viagem();
+                    Garagem go = new Garagem();
+                    Garagem gd = new Garagem();
+                    
+                    Console.WriteLine("Digite o local da garagem de origem:");
+                    string local = Console.ReadLine();
+                    go.Local = local;
 
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(go))
+                        {
+                            go = g2;
+                        }
+                    }
+                    Console.WriteLine("Digite o local da garagem de destino:");
+                    local = Console.ReadLine();
+                    gd.Local = local;
 
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(gd))
+                        {
+                            gd = g2;
+                        }
+                    }
+
+                    v.Origem = go;
+                    v.Destino = gd;
+                    int qtdv = 0;
+                    foreach (Viagem v2 in via.Viagensl)
+                    {
+                        if (v2.Equals(v))
+                        {
+                            qtdv++;
+                        }
+                    }
+                    Console.WriteLine("quantidade de viagens:= " + qtdv);
                 }
                 if (opc == 8)
                 {
 
+                    Viagem v = new Viagem();
+                    Garagem go = new Garagem();
+                    Garagem gd = new Garagem();
 
+                    Console.WriteLine("Digite o local da garagem de origem:");
+                    string local = Console.ReadLine();
+                    go.Local = local;
+
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(go))
+                        {
+                            go = g2;
+                        }
+                    }
+                    Console.WriteLine("Digite o local da garagem de destino:");
+                    local = Console.ReadLine();
+                    gd.Local = local;
+
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(gd))
+                        {
+                            gd = g2;
+                        }
+                    }
+
+                    v.Origem = go;
+                    v.Destino = gd;
+
+                    foreach (Viagem v2 in via.Viagensl)
+                    {
+                        if (v2.Equals(v))
+                        {
+                            Console.WriteLine("Id= " + v2.Id + "Origem= " + v2.Origem.Local + "Destino= " + v2.Destino.Local + "Veiculo= " + v2.Veiculo.Placa); 
+                        }
+                    }
                 }
                 if (opc == 9)
                 {
+                    Viagem v = new Viagem();
+                    Garagem go = new Garagem();
+                    Garagem gd = new Garagem();
 
+                    Console.WriteLine("Digite o local da garagem de origem:");
+                    string local = Console.ReadLine();
+                    go.Local = local;
 
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(go))
+                        {
+                            go = g2;
+                        }
+                    }
+                    Console.WriteLine("Digite o local da garagem de destino:");
+                    local = Console.ReadLine();
+                    gd.Local = local;
+
+                    foreach (Garagem g2 in gar.Garagensl)
+                    {
+                        if (g2.Equals(gd))
+                        {
+                            gd = g2;
+                        }
+                    }
+
+                    v.Origem = go;
+                    v.Destino = gd;
+                    int qtdl = 0;
+                    foreach (Viagem v2 in via.Viagensl)
+                    {
+                        if (v2.Equals(v))
+                        {
+                            qtdl = qtdl + v2.Veiculo.Lotacao;
+                        }
+                    }
+                    Console.WriteLine("Quantidade de passageiros= " + qtdl);
                 }
                 Console.WriteLine("-------------------------------");
                 Console.WriteLine("0. Sair");

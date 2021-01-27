@@ -35,5 +35,10 @@ namespace TransportePilha.Models
             get { return veiculo; }
             set { veiculo = value; }
         }
+
+        public override bool Equals(object obj)
+        {
+            return (this.origem.Equals(((Viagem)obj).origem) && this.destino.Equals(((Viagem)obj).destino));
+        }
     }
 }

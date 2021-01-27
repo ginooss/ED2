@@ -10,6 +10,13 @@ namespace TransportePilha.Models
     {
         private Queue<Viagem> viagens;
 
+        public Queue<Viagem> Viagensl
+        {
+            get { return viagens; }
+            set { viagens = value; }
+        }
+
+
         public void incluir(Viagem viagem)
         {
             viagem.Id = viagens.Count + 1;
